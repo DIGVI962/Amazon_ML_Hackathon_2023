@@ -1,7 +1,7 @@
 # Amazon_ML_Hackathon_2023
 
 
-In this solution we have concatenated the DESCRIPTION, BULLET_POINTS and TITLE as our attribute and saved it to TITLE.
+In this solution we have discarded the DESCRIPTION, BULLET_POINTS and PRODUCT_TYPE_ID and used TITLE as our attribute.
 
 We have first cleaned the text in the TITLE column and then victorized it and acquired th TF-IDF score.
 
